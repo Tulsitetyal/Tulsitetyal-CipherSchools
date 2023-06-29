@@ -1,3 +1,13 @@
+//HELLO WORLD
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+    cout<<"Hello world";
+    return 0;
+}
+
+
+//SUM FUNCTION
 #include<bits/stdc++.h>
 using namespace std;
 sum(int n1, int n2){
@@ -10,4 +20,6 @@ int main() {
     return 0;
 }
 
-ksj
+
+
+
